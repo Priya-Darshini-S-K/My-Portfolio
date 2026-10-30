@@ -1,27 +1,89 @@
-PRIYADARSHINI S. — PORTFOLIO WEBSITE
+# ✨ S. Priyadarshini – Personal Portfolio
 
-HOW TO OPEN
-1. Extract the ZIP folder.
-2. Open the folder in Visual Studio Code.
-3. Open index.html in a browser, or use the Live Server extension.
+Welcome to my personal portfolio repository! 👩🏻‍💻
 
-PROJECTS
-- Project 1: Personal Portfolio (card only; no external link)
-- Project 2: Infinity Aura Digital Store (opens the live website)
-- Project 3: Cardamom Estate (opens the live website)
-- Project 4: Landing Page (card only; no external link)
+I'm **S. Priyadarshini**, a B.Com Information Technology student and an aspiring Web Developer and Agentic AI Developer.
 
-CERTIFICATES
-All six provided certificate images are included in the certificates folder. Click any certificate preview to open the original image.
+This portfolio showcases my skills, projects, certifications, and learning journey in Web Development and Artificial Intelligence.
 
-BEFORE PUBLISHING
-- Replace the sample email address priyadarshini@example.com in index.html with your real contact email.
-- The LinkedIn link currently points to LinkedIn's homepage because a direct profile URL was not supplied. Replace it with your profile URL.
-- Update the project description/details if you want them to reflect the exact features you built.
+## 👩🏻‍💻 About Me
 
-FILES
-index.html      Website content
-style.css       Design and responsive layout
-script.js       Mobile navigation and active navigation states
-images/         Profile photo
-certificates/   Six certificate images
+* 🎓 B.Com – Information Technology Student
+* 💻 Interested in Frontend Development
+* 🤖 Exploring Artificial Intelligence and Agentic AI
+* 🌱 Passionate about learning new technologies
+* 🚀 Building creative and user-friendly web applications
+
+## 🛠️ Technologies & Skills
+
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Web Design
+* Frontend Development
+* Artificial Intelligence Tools
+* UI/UX Design
+
+## 🚀 My Projects
+
+### 1. Personal Portfolio
+
+A personal website showcasing my profile, skills, projects, and certifications.
+
+### 2. Infinity Aura – Digital Store
+
+A digital store website designed to showcase digital products and ebooks.
+
+🔗 **Live Demo:** https://infinitu-aura-digital.netlify.app/
+
+### 3. Cardamom Estate – Smart Plantation Management
+
+A web-based plantation management project designed to support estate operations and worker attendance management.
+
+🔗 **Live Demo:** https://cardamom-estates.netlify.app/
+
+### 4. Landing Page
+
+A modern and responsive landing page created using frontend technologies.
+
+## 🏆 Certifications
+
+* Frontend Development Internship – UNIQ SOFTECH
+* Work Smarter with AI – Canva Design School
+* Critical Thinking in the AI Era – HP LIFE
+* Introduction to Artificial Intelligence – Simplilearn SkillUp
+* Artificial Intelligence Virtual Internship – CodeAlpha
+* Portfolio Development – Agentic AI – Brand Monk Academy
+
+## 🌐 Connect With Me
+
+* **GitHub:** https://github.com/Priya-Darshini-S-K
+* **LinkedIn:** https://www.linkedin.com/in/spriya-darshini/
+
+## 📌 Portfolio Highlights
+
+* Modern and responsive design
+* Personal introduction and skills
+* Project showcase
+* Certificate gallery
+* Interactive navigation
+* AI chatbot concept
+
+## 💻 Run Locally
+
+1. Clone this repository:
+
+   ```bash
+   git clone YOUR_GITHUB_REPOSITORY_LINK
+   ```
+
+2. Open the project folder in VS Code.
+
+3. Open `index.html` in your browser.
+
+---
+
+⭐ Thank you for visiting my portfolio!
+
+**S. Priyadarshini**
+B.Com IT Student | Web Developer | Aspiring Agentic AI Developer
